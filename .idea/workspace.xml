@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c47b530-9709-4874-8771-c297e0d5e6eb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I3hiMju3GVOtQ7RJEM6fXDqTEk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kolya/WebstormProjects/MyNewStore",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c47b530-9709-4874-8771-c297e0d5e6eb" name="Changes" comment="" />
+      <created>1669416302097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669416302097</updated>
+      <workItem from="1669416304325" duration="91000" />
+      <workItem from="1669416404666" duration="26000" />
+      <workItem from="1669416551296" duration="11000" />
+      <workItem from="1669416590488" duration="72000" />
+      <workItem from="1669417190411" duration="46000" />
+      <workItem from="1669417238819" duration="73000" />
+      <workItem from="1669417320751" duration="34000" />
+      <workItem from="1669417363374" duration="36000" />
+      <workItem from="1669417430939" duration="79000" />
+      <workItem from="1669417517969" duration="4000" />
+      <workItem from="1669418111854" duration="1119000" />
+      <workItem from="1669493809235" duration="976000" />
+      <workItem from="1669494799579" duration="3754000" />
+      <workItem from="1669499933620" duration="2129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
